@@ -1,3 +1,7 @@
+NOTE: Maaf kak sebenernya tutroial 6 saya ga ngumpul telat, minggu lalu udah selesai tapi salah push malah ke rewrite dari tugas 7 ke github repo football-news-mobile, push yang sekarang memperbaiki commitnya aja #peace #pls jgn dikurangin huhu
+
+
+
 # football_news
 
 A new Flutter project.
